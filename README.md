@@ -1,3 +1,6 @@
+![1_GPSTdXye2ZGirtpKlwchpA (4)](https://github.com/Eozdur/Cpp_Modules/assets/101213607/70ae8026-c6d2-4a17-af31-f904b8258abd)
+
+
 | Modules    | Topics                                                      | Description                                                    |
 |------------|-------------------------------------------------------------|----------------------------------------------------------------|
 | [CPP_00]   | Getting familiar with C++                                   | Basics of C++ including classes, member functions, and syntax.  |
@@ -11,4 +14,3 @@
 | [CPP_08]   | Playing with templates and containers                       | Practical examples with templated containers, iterators, and algorithms. |
 | [CPP_09]   | List, Stack, Vector, Map                                    | Implementing btc finder, RPN Calculator, and MergeSort in C++.  |
 
-![1_GPSTdXye2ZGirtpKlwchpA (3)](https://github.com/Eozdur/Cpp_Modules/assets/101213607/b5f653d1-0532-4fb6-bf2d-31ca97eaa5de)
