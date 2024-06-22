@@ -1,4 +1,4 @@
-![1_GPSTdXye2ZGirtpKlwchpA (1)](https://github.com/Eozdur/Cpp_Modules/assets/101213607/d7f546c1-7ef4-48e8-8d60-9d915aef488a)
+![1_GPSTdXye2ZGirtpKlwchpA (2)](https://github.com/Eozdur/Cpp_Modules/assets/101213607/42add551-49ea-4e55-8600-aec2e4bc70f4)
 
 | Modules    | Topics                                                      | Description                                                    |
 |------------|-------------------------------------------------------------|----------------------------------------------------------------|
