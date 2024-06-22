@@ -1,3 +1,6 @@
+![1_GPSTdXye2ZGirtpKlwchpA](https://github.com/Eozdur/Cpp_Modules/assets/101213607/929e32d9-66af-43ac-8c3a-e2d1fcfd28d3)
+
+
 | Modules    | Topics                                                      | Description                                                    |
 |------------|-------------------------------------------------------------|----------------------------------------------------------------|
 | [CPP_00]   | Getting familiar with C++                                   | Basics of C++ including classes, member functions, and syntax.  |
